@@ -4,5 +4,4 @@ class  Cat
 
   attr_reader :meow
     puts "meow!"
-  end
 end
